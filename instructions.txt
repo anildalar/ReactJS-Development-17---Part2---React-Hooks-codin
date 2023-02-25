@@ -1,0 +1,56 @@
+window + x 
+
+Terminal (Admin)
+
+FrontendProject (ReactJs)<--- APIs
+		npx create-react-app projectName
+
+		To start reactjs project
+			npm start
+
+BackendProject  (Strapi)
+		npx create-strapi-app@latest projectName
+
+		npm install @strapi/plugin-documentation
+		
+		To start strapi project
+			npm run develop
+
+
+
+
+ctrl + alt + delete
+
+EndTask  NodeProcess
+
+URL
+
+baseaddress/routes?queryStrings
+http://localhost:3000/routes
+
+https://google.com/something
+https://amazon.in/laptops
+
+http://localhost:3000/register?username=admin%40123&email=DOLLORINFOTECH%40GMAIL.COM&password=admin%40123
+
+
+Very Very Important Loop
+
+Map Function
+
+Array []
+Object {P:V,P:V,P:V,....}
+
+Syntax
+let array = [{}]
+array.map(cbfn)
+cbfn = callback function
+()=>{} 					<-- New
+function(formalArg1,formalArg2,){}   <--- Old
+
+
+{} = Expression Evaluator
+
+cv = currentValue
+idx= index
+arr= array
